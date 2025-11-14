@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "pokemon-legends-arceus-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:50",
+        "lastModifiedDate": "2025-11-14T14:50",
+        "mainImg": "pokemon-legends-arceus-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000039947",
+                "productCode": "70010000039947",
+                "productName": "Pokemon LEGENDS 아르세우스",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/p\/l\/pla_1920x1080.jpg",
+                "imgLocal": "pokemon-legends-arceus-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/pokemon-legends-arceus-switch\/",
+                "productCode": "pokemon-legends-arceus-switch",
+                "productName": "Pokémon Legends: Arceus",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000039945\/dcb496d7cf954c7eb51ab2e5d0c27918fb7f055e50f4e902135bd4a70a44b491",
+                "imgLocal": "pokemon-legends-arceus-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000039944",
+                "productCode": "D70010000039944",
+                "productName": "Pokemon LEGENDS アルセウス",
+                "regularPrice": 6578,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw23af2489\/products\/D70010000039944\/heroBanner\/4a7f83b7bd7978faa7b92797282ff093d99d5204c60b937a2182e0c2118399fe.jpg",
+                "imgLocal": "pokemon-legends-arceus-switch_jp.jpg"
+            }
+        }
+    }
+}

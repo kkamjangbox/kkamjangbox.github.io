@@ -3,8 +3,8 @@
         "id": "kirby-and-the-forgotten-land-switch",
         "platform": "Switch",
         "version": "1.0",
-        "createdDate": "2025-11-14T00:29",
-        "lastModifiedDate": "2025-11-14T00:29",
+        "createdDate": "2025-11-14T14:39",
+        "lastModifiedDate": "2025-11-14T14:39",
         "mainImg": "kirby-and-the-forgotten-land-switch.jpg",
         "owned": 1,
         "stores": {
@@ -19,7 +19,7 @@
             "us": {
                 "url": "https:\/\/www.nintendo.com\/us\/store\/products\/kirby-and-the-forgotten-land-switch\/",
                 "productCode": "kirby-and-the-forgotten-land-switch",
-                "productName": "Kirby™ and the Forgotten Land",
+                "productName": "Kirby and the Forgotten Land",
                 "regularPrice": 59.99,
                 "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000046405\/d1cf83dea46094b85247f40ca30ea4557730a319be0bfe544a4fa929144cf6c2",
                 "imgLocal": "kirby-and-the-forgotten-land-switch_us.jpg"
@@ -27,7 +27,7 @@
             "jp": {
                 "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000046404",
                 "productCode": "D70010000046404",
-                "productName": "星のカービィ　ディスカバリー",
+                "productName": "星のカービィ ディスカバリー",
                 "regularPrice": 6500,
                 "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwfadc44cd\/products\/D70010000046404\/heroBanner\/70d985e5ca0536e23ed2eba589446234ea607a9f2f98d78db2c931db5a7a3a1f.jpg",
                 "imgLocal": "kirby-and-the-forgotten-land-switch_jp.jpg"

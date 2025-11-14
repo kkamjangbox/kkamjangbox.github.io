@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "finc-home-fit",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T13:27",
+        "lastModifiedDate": "2025-11-14T13:27",
+        "mainImg": "finc-home-fit.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000042719",
+                "productCode": "70010000042719",
+                "productName": "리듬 피트니스 HOME FiT",
+                "regularPrice": 58000,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/1\/1\/113ac176a03aa30fd757294571147aafc90a28ef988dfbff87242baf81f6ecdf.jpg",
+                "imgLocal": "finc-home-fit_kr.jpg"
+            },
+            "us": {
+                "url": "",
+                "productCode": "",
+                "productName": "",
+                "regularPrice": 0,
+                "imgURL": "",
+                "imgLocal": "finc-home-fit_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000026360",
+                "productCode": "D70010000026360",
+                "productName": "FiNC HOME FiT（フィンクホームフィット）",
+                "regularPrice": 6050,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwb830a373\/products\/D70010000026360\/heroBanner\/64b2dcf5f655771f7279f3e1b03dcf05ba3327e7a9d8fb040b312f966e12c8a4.jpg",
+                "imgLocal": "finc-home-fit_jp.jpg"
+            }
+        }
+    }
+}

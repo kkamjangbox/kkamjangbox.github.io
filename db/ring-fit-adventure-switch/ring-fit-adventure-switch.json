@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "ring-fit-adventure-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T13:25",
+        "lastModifiedDate": "2025-11-14T13:25",
+        "mainImg": "ring-fit-adventure-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000028221",
+                "productCode": "70010000028221",
+                "productName": "링 피트 어드벤처",
+                "regularPrice": 84800,
+                "imgURL": "https://store.nintendo.co.kr/media/catalog/product/cache/3be328691086628caca32d01ffcc430a/h/a/hac-r-al3pa-kor.jpg",
+                "imgLocal": "ring-fit-adventure-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/ring-fit-adventure-switch\/",
+                "productCode": "ring-fit-adventure-switch",
+                "productName": "Ring Fit Adventure",
+                "regularPrice": 79.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/ncom\/en_US\/products\/games\/switch\/ring-fit-adventure\/110583-switch-ring-fit-adventure-1200x675",
+                "imgLocal": "ring-fit-adventure-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000004567",
+                "productCode": "D70010000004567",
+                "productName": "リングフィット アドベンチャー",
+                "regularPrice": 8778,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwbdd4a29a\/products\/D70010000004567\/heroBanner\/31fb1472e86e583c1a7089ef7239fb4ae5f0bb1e37c0f818dfd59df64cca0d5d.jpg",
+                "imgLocal": "ring-fit-adventure-switch_jp.jpg"
+            }
+        }
+    }
+}

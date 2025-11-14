@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "diablo-iii-eternal-collection-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T13:23",
+        "lastModifiedDate": "2025-11-14T13:23",
+        "mainImg": "diablo-iii-eternal-collection-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000012304",
+                "productCode": "70010000012304",
+                "productName": "디아블로 III: 이터널 컬렉션",
+                "regularPrice": 69000,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/9\/d\/9d8f95e20b59b76eab1a74aaefdabbabe6438b6761efc4efa6306dde638987f3_13.jpg",
+                "imgLocal": "diablo-iii-eternal-collection-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/diablo-iii-eternal-collection-switch\/",
+                "productCode": "diablo-iii-eternal-collection-switch",
+                "productName": "Diablo III: Eternal Collection",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000012305\/9d8f95e20b59b76eab1a74aaefdabbabe6438b6761efc4efa6306dde638987f3",
+                "imgLocal": "diablo-iii-eternal-collection-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000013613",
+                "productCode": "D70010000013613",
+                "productName": "ディアブロ III エターナルコレクション",
+                "regularPrice": 7678,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwf94a3dff\/products\/D70010000013613\/heroBanner\/103fa6362dc477fb4fc881dea63200432765656bca61c9570af9712c0014153c.jpg",
+                "imgLocal": "diablo-iii-eternal-collection-switch_jp.jpg"
+            }
+        }
+    }
+}

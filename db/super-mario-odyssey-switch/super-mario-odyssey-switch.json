@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "super-mario-odyssey-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:40",
+        "lastModifiedDate": "2025-11-14T14:40",
+        "mainImg": "super-mario-odyssey-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000009372",
+                "productCode": "70010000009372",
+                "productName": "슈퍼 마리오 오디세이",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/c\/4\/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5.jpg",
+                "imgLocal": "super-mario-odyssey-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/super-mario-odyssey-switch\/",
+                "productCode": "super-mario-odyssey-switch",
+                "productName": "Super Mario Odyssey",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000001130\/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+                "imgLocal": "super-mario-odyssey-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000000828",
+                "productCode": "D70010000000828",
+                "productName": "スーパーマリオ オデッセイ",
+                "regularPrice": 6578,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw3e8499be\/products\/D70010000000828\/heroBanner\/155fc615dfb2fd8702542916b57f6bdd6c0ab5a103f44f7d84a7aacd2c4f222e.jpg",
+                "imgLocal": "super-mario-odyssey-switch_jp.jpg"
+            }
+        }
+    }
+}

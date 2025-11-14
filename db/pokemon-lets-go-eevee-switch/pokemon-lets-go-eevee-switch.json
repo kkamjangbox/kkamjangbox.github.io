@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "pokemon-lets-go-eevee-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:54",
+        "lastModifiedDate": "2025-11-14T14:54",
+        "mainImg": "pokemon-lets-go-eevee-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000015693",
+                "productCode": "70010000015693",
+                "productName": "포켓몬스터 레츠고! 이브이",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/f\/i\/file_9.jpg",
+                "imgLocal": "pokemon-lets-go-eevee-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/pokemon-lets-go-eevee-switch\/",
+                "productCode": "pokemon-lets-go-eevee-switch",
+                "productName": "Pokémon: Let’s Go, Eevee!",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000000450\/29c8fc98cfae253d3f5d176845a929d92a48cb507ba6cbe5e18533444de0735f",
+                "imgLocal": "pokemon-lets-go-eevee-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000000451",
+                "productCode": "D70010000000451",
+                "productName": "ポケットモンスター Let&#x27;s Go! イーブイ",
+                "regularPrice": 6578,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw2718bc85\/products\/D70010000000451\/heroBanner\/ef529d7bfcf28234299194c9fc2f71346c5595fb43ed87415d2ac7601e2fc590.jpg",
+                "imgLocal": "pokemon-lets-go-eevee-switch_jp.jpg"
+            }
+        }
+    }
+}

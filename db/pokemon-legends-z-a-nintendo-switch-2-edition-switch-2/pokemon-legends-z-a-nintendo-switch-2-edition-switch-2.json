@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "pokemon-legends-z-a-nintendo-switch-2-edition-switch-2",
+        "platform": "Switch 2",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:53",
+        "lastModifiedDate": "2025-11-14T14:53",
+        "mainImg": "pokemon-legends-z-a-nintendo-switch-2-edition-switch-2.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000099367",
+                "productCode": "70010000099367",
+                "productName": "Pokemon LEGENDS Z-A Nintendo Switch 2 Edition",
+                "regularPrice": 79800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/2\/9\/298f080377131f2981b05d4ebf7dca5ae45c59f84bdf703f9e499392587db17c_1.jpg",
+                "imgLocal": "pokemon-legends-z-a-nintendo-switch-2-edition-switch-2_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/pokemon-legends-z-a-nintendo-switch-2-edition-switch-2\/",
+                "productCode": "pokemon-legends-z-a-nintendo-switch-2-edition-switch-2",
+                "productName": "Pokémon™ Legends: Z-A Nintendo Switch 2 Edition",
+                "regularPrice": 69.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch2\/70010000099365\/80e1e26cdb1dd973909009e8c5bd457b01c9a57236ba6161d5e158f1357526f9",
+                "imgLocal": "pokemon-legends-z-a-nintendo-switch-2-edition-switch-2_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000099190",
+                "productCode": "D70010000099190",
+                "productName": "Pokemon LEGENDS Z-A Nintendo Switch 2 Edition",
+                "regularPrice": 8100,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw18b5fed2\/products\/D70010000099190\/heroBanner\/298f080377131f2981b05d4ebf7dca5ae45c59f84bdf703f9e499392587db17c.jpg",
+                "imgLocal": "pokemon-legends-z-a-nintendo-switch-2-edition-switch-2_jp.jpg"
+            }
+        }
+    }
+}

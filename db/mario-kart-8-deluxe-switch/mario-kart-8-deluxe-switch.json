@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "mario-kart-8-deluxe-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T13:29",
+        "lastModifiedDate": "2025-11-14T13:29",
+        "mainImg": "mario-kart-8-deluxe-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000009373",
+                "productCode": "70010000009373",
+                "productName": "마리오 카트 8 디럭스",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/m\/k\/mk8_hero_1.jpg",
+                "imgLocal": "mario-kart-8-deluxe-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/mario-kart-8-deluxe-switch\/",
+                "productCode": "mario-kart-8-deluxe-switch",
+                "productName": "Mario Kart 8 Deluxe",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000000153\/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453",
+                "imgLocal": "mario-kart-8-deluxe-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000000186",
+                "productCode": "D70010000000186",
+                "productName": "マリオカート８ デラックス",
+                "regularPrice": 6578,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw3666da63\/products\/D70010000000186\/heroBanner\/e681f02b84dd9f7207b2b00ec7803e39d242141af0fb681f0d27f2d824898373.jpg",
+                "imgLocal": "mario-kart-8-deluxe-switch_jp.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "fitness-boxing-2-rhythm-and-exercise-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T15:39",
+        "lastModifiedDate": "2025-11-14T15:39",
+        "mainImg": "fitness-boxing-2-rhythm-and-exercise-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000035305",
+                "productCode": "70010000035305",
+                "productName": "피트니스 복싱 2: 리듬 & 엑서사이즈",
+                "regularPrice": 54800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/5\/a\/5a1cefe54b0ae66a69084c56a66a11889bcd8b0c0ffffd47c3cfcdae5b1d4654.jpg",
+                "imgLocal": "fitness-boxing-2-rhythm-and-exercise-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/fitness-boxing-2-rhythm-and-exercise-switch\/",
+                "productCode": "fitness-boxing-2-rhythm-and-exercise-switch",
+                "productName": "Fitness Boxing 2: Rhythm & Exercise",
+                "regularPrice": 49.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000035030\/2a87f28902b884794ee4fcd7dc332be749c311435e0f3e9bcba23c38cc6cb530",
+                "imgLocal": "fitness-boxing-2-rhythm-and-exercise-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000028187",
+                "productCode": "D70010000028187",
+                "productName": "Fit Boxing 2 -リズム＆エクササイズ-",
+                "regularPrice": 6380,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwaae58003\/products\/D70010000028187\/heroBanner\/8cf8e0a59d17a9d330da9d8f642aa9caae5f0225dc26ec363983ec4219b4bf64.jpg",
+                "imgLocal": "fitness-boxing-2-rhythm-and-exercise-switch_jp.jpg"
+            }
+        }
+    }
+}

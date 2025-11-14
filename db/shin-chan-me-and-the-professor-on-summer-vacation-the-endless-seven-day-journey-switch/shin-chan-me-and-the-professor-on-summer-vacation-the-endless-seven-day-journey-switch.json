@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:49",
+        "lastModifiedDate": "2025-11-14T14:49",
+        "mainImg": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000049558",
+                "productCode": "70010000049558",
+                "productName": "짱구는 못말려 나와 박사의 여름 방학 ~끝나지 않는 7일간의 여행~",
+                "regularPrice": 59800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/4\/7\/47886196be35f80bb6dab834e591f5bbdfd9ae5ed6fa445a8db7b8c2830016e3.jpg",
+                "imgLocal": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-switch\/",
+                "productCode": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-switch",
+                "productName": "Shin chan: Me and the Professor on Summer Vacation -The Endless Seven-Day Journey-",
+                "regularPrice": 39.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000054116\/cc308afa1fe1813ec2d85a87da5fae5995f33fd46261abee3d6b41103f9a68cb",
+                "imgLocal": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000037406",
+                "productCode": "D70010000037406",
+                "productName": "クレヨンしんちゃん 『オラと博士の夏休み』 ～おわらない七日間の旅～",
+                "regularPrice": 6580,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwf69aa005\/products\/D70010000037406\/heroBanner\/311be159160f09d67c0a65a804f0baeda5e2f5adf4fad6038d659cae1d3dd810.jpg",
+                "imgLocal": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-switch_jp.jpg"
+            }
+        }
+    }
+}

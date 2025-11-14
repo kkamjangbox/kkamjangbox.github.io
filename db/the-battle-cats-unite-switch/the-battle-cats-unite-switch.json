@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "the-battle-cats-unite-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T13:22",
+        "lastModifiedDate": "2025-11-14T13:22",
+        "mainImg": "the-battle-cats-unite-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000038039",
+                "productCode": "70010000038039",
+                "productName": "둘이서! 냥코 대전쟁",
+                "regularPrice": 12800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/5\/3\/53431c2d8084856c5f1768a842b04e7ed3abdb3d25395d4282a570044c8e6603.jpg",
+                "imgLocal": "the-battle-cats-unite-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/the-battle-cats-unite-switch\/",
+                "productCode": "the-battle-cats-unite-switch",
+                "productName": "The Battle Cats Unite!",
+                "regularPrice": 19.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000079601\/221d1527a467e4cd86ce4f0ed06ca180f3ae1a53d620863ebd4170612dca99e3",
+                "imgLocal": "the-battle-cats-unite-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000012325",
+                "productCode": "D70010000012325",
+                "productName": "ふたりで！にゃんこ大戦争",
+                "regularPrice": 999,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw413d32a1\/products\/D70010000012325\/heroBanner\/17b24fa226e9cdcbf1f48bd23b530cd93540780dcfcff8868644d342bd08ea1e.jpg",
+                "imgLocal": "the-battle-cats-unite-switch_jp.jpg"
+            }
+        }
+    }
+}

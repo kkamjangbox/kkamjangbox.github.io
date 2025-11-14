@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "katamari-damacy-reroll-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T13:20",
+        "lastModifiedDate": "2025-11-14T13:20",
+        "mainImg": "katamari-damacy-reroll-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000035378",
+                "productCode": "70010000035378",
+                "productName": "괴혼 ~굴려라 돌아온 왕자님~",
+                "regularPrice": 32800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/6\/8\/688c25cc0957f6ca4d3f1783289e4440655f7082b2360b1272736a71c609b1b0.jpg",
+                "imgLocal": "katamari-damacy-reroll-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/katamari-damacy-reroll-switch\/",
+                "productCode": "katamari-damacy-reroll-switch",
+                "productName": "Katamari Damacy REROLL",
+                "regularPrice": 29.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000013947\/8bc1c03c10ce90de73d2203a0e42d130aad9e81b437c53930e0d4fd81a4359a4",
+                "imgLocal": "katamari-damacy-reroll-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000014833",
+                "productCode": "D70010000014833",
+                "productName": "塊魂アンコール",
+                "regularPrice": 3520,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwe15602eb\/products\/D70010000014833\/heroBanner\/0a3ffdda0fbd0e2a94488fb9bafbfe896c08360727ab02db7e6e08537eb08b5f.jpg",
+                "imgLocal": "katamari-damacy-reroll-switch_jp.jpg"
+            }
+        }
+    }
+}

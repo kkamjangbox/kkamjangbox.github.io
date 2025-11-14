@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "kirby-star-allies-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:38",
+        "lastModifiedDate": "2025-11-14T14:38",
+        "mainImg": "kirby-star-allies-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000009382",
+                "productCode": "70010000009382",
+                "productName": "별의 커비 스타 얼라이즈",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/i\/m\/img_switch_eclaircity_main_visual.jpg",
+                "imgLocal": "kirby-star-allies-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/kirby-star-allies-switch\/",
+                "productCode": "kirby-star-allies-switch",
+                "productName": "Kirby Star Allies",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000002365\/56eb33b93862176250495b53d3ad8fee4f84a73a5d99da99585260b403a6ec69",
+                "imgLocal": "kirby-star-allies-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000002366",
+                "productCode": "D70010000002366",
+                "productName": "星のカービィ スターアライズ",
+                "regularPrice": 6578,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwac64d1ff\/products\/D70010000002366\/heroBanner\/f8f88dd8263831a61b8fd82fa343ba10b2c8f19037ceba092396423bb8c82f68.jpg",
+                "imgLocal": "kirby-star-allies-switch_jp.jpg"
+            }
+        }
+    }
+}

@@ -1,11 +1,41 @@
 {
     "metadata": {
         "version": "1.0",
-        "createdDate": "2025-11-14T00:30:08",
-        "lastModifiedDate": "2025-11-14T00:30:08",
-        "total_games": 2
+        "createdDate": "2025-11-14T16:13:03",
+        "lastModifiedDate": "2025-11-14T16:13:03",
+        "total_games": 24
     },
     "games": [
+        {
+            "id": "animal-crossing-new-horizons-switch",
+            "kr_name": "모여봐요 동물의 숲",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "diablo-iii-eternal-collection-switch",
+            "kr_name": "디아블로 III: 이터널 컬렉션",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "finc-home-fit",
+            "kr_name": "리듬 피트니스 HOME FiT",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "fitness-boxing-2-rhythm-and-exercise-switch",
+            "kr_name": "피트니스 복싱 2: 리듬 & 엑서사이즈",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "katamari-damacy-reroll-switch",
+            "kr_name": "괴혼 ~굴려라 돌아온 왕자님~",
+            "platform": "Switch",
+            "owned": 1
+        },
         {
             "id": "kirby-and-the-forgotten-land-switch",
             "kr_name": "별의 커비 디스커버리",
@@ -13,8 +43,110 @@
             "owned": 1
         },
         {
+            "id": "kirby-star-allies-switch",
+            "kr_name": "별의 커비 스타 얼라이즈",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "luigis-mansion-3-switch",
+            "kr_name": "루이지 맨션 3",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "mario-kart-8-deluxe-switch",
+            "kr_name": "마리오 카트 8 디럭스",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "new-pokemon-snap-switch",
+            "kr_name": "New 포켓몬 스냅",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "pokemon-brilliant-diamond-switch",
+            "kr_name": "포켓몬스터 브릴리언트 다이아몬드",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "pokemon-legends-arceus-switch",
+            "kr_name": "Pokemon LEGENDS 아르세우스",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "pokemon-legends-z-a-nintendo-switch-2-edition-switch-2",
+            "kr_name": "Pokemon LEGENDS Z-A Nintendo Switch 2 Edition",
+            "platform": "Switch 2",
+            "owned": 1
+        },
+        {
+            "id": "pokemon-lets-go-eevee-switch",
+            "kr_name": "포켓몬스터 레츠고! 이브이",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "pokemon-violet-switch",
+            "kr_name": "포켓몬스터 바이올렛",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "ring-fit-adventure-switch",
+            "kr_name": "링 피트 어드벤처",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-switch",
+            "kr_name": "짱구는 못말려 나와 박사의 여름 방학 ~끝나지 않는 7일간의 여행~",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "snow-bros-2-special-switch",
+            "kr_name": "스노우 브라더스 2 스페셜",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "snow-bros-special-switch",
+            "kr_name": "스노우 브라더스 (NICK & TOM SPECIAL)",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
             "id": "super-mario-bros-wonder-switch",
             "kr_name": "슈퍼 마리오브라더스 원더",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "super-mario-odyssey-switch",
+            "kr_name": "슈퍼 마리오 오디세이",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "the-battle-cats-unite-switch",
+            "kr_name": "둘이서! 냥코 대전쟁",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "the-legend-of-zelda-breath-of-the-wild-switch",
+            "kr_name": "젤다의 전설 브레스 오브 더 와일드",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "the-legend-of-zelda-tears-of-the-kingdom-switch",
+            "kr_name": "젤다의 전설 티어스 오브 더 킹덤",
             "platform": "Switch",
             "owned": 1
         }

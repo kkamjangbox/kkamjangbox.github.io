@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "snow-bros-2-special-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:41",
+        "lastModifiedDate": "2025-11-14T14:41",
+        "mainImg": "snow-bros-2-special-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000084494",
+                "productCode": "70010000084494",
+                "productName": "스노우 브라더스 2 스페셜",
+                "regularPrice": 44800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/5\/d\/5d84ef7224d81d623d9310f5ac4604fd942c58613d7d58d8f8014a4ea5f70208.jpg",
+                "imgLocal": "snow-bros-2-special-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/snow-bros-2-special-switch\/",
+                "productCode": "snow-bros-2-special-switch",
+                "productName": "SNOW BROS 2 SPECIAL",
+                "regularPrice": 29.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000087568\/5d84ef7224d81d623d9310f5ac4604fd942c58613d7d58d8f8014a4ea5f70208",
+                "imgLocal": "snow-bros-2-special-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000086964",
+                "productCode": "D70010000086964",
+                "productName": "スノーブラザーズ 2 スペシャル",
+                "regularPrice": 4500,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwa447f470\/products\/D70010000086964\/heroBanner\/831c030f97586c84fd5d7a46bf769251cd55e0f8b9c4d8083c9a7ad14ccf114d.jpg",
+                "imgLocal": "snow-bros-2-special-switch_jp.jpg"
+            }
+        }
+    }
+}

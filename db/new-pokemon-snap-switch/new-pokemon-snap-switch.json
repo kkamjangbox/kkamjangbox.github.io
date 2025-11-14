@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "new-pokemon-snap-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T13:21",
+        "lastModifiedDate": "2025-11-14T13:21",
+        "mainImg": "new-pokemon-snap-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000037991",
+                "productCode": "70010000037991",
+                "productName": "New 포켓몬 스냅",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/a\/e\/aee54cc82c8d80c969cf4ecd8843dad5568469cd4cd19cb863be2a08080e93cd.jpg",
+                "imgLocal": "new-pokemon-snap-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/new-pokemon-snap-switch\/",
+                "productCode": "new-pokemon-snap-switch",
+                "productName": "New Pokémon Snap",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000037989\/00bd7efe46ab2b3ff0774172a5d4f21a5b2f467b3e324557ce1e9a9ae12c1d3b",
+                "imgLocal": "new-pokemon-snap-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000037988",
+                "productCode": "D70010000037988",
+                "productName": "New ポケモンスナップ",
+                "regularPrice": 6578,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw856076b5\/products\/D70010000037988\/heroBanner\/09147556b399e2ac8005bbe69d74a414d2c6b3d5f42866c0023435347cb5f092.jpg",
+                "imgLocal": "new-pokemon-snap-switch_jp.jpg"
+            }
+        }
+    }
+}

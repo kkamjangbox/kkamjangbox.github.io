@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "animal-crossing-new-horizons-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T13:31",
+        "lastModifiedDate": "2025-11-14T13:31",
+        "mainImg": "animal-crossing-new-horizons-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000027621",
+                "productCode": "70010000027621",
+                "productName": "모여봐요 동물의 숲",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/f\/1\/f1715bebde9ecc2e1cecc33e35166cbf87233ae35cc4dd6649645acc3a036696.jpg",
+                "imgLocal": "animal-crossing-new-horizons-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/animal-crossing-new-horizons-switch\/",
+                "productCode": "animal-crossing-new-horizons-switch",
+                "productName": "Animal Crossing: New Horizons",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000027619\/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
+                "imgLocal": "animal-crossing-new-horizons-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000027618",
+                "productCode": "D70010000027618",
+                "productName": "あつまれ どうぶつの森",
+                "regularPrice": 6578,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw561a23f9\/products\/D70010000027618\/heroBanner\/e607c120cab2c59c5ebb491deaa1095e750ad795e8e1129c8f4f4f5bdefc6a92.jpg",
+                "imgLocal": "animal-crossing-new-horizons-switch_jp.jpg"
+            }
+        }
+    }
+}

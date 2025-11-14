@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "pokemon-violet-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:56",
+        "lastModifiedDate": "2025-11-14T14:56",
+        "mainImg": "pokemon-violet-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000053973",
+                "productCode": "70010000053973",
+                "productName": "포켓몬스터 바이올렛",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/2\/3\/231207_pk-v2_kr.jpg",
+                "imgLocal": "pokemon-violet-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/pokemon-violet-switch\/",
+                "productCode": "pokemon-violet-switch",
+                "productName": "Pokémon Violet",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000053971\/842b2784d91520d41a947dec17fac116fec889bb1f1db4023615af8429dae00d",
+                "imgLocal": "pokemon-violet-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000053970",
+                "productCode": "D70010000053970",
+                "productName": "ポケットモンスター バイオレット",
+                "regularPrice": 6500,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwefb84220\/products\/D70010000053970\/heroBanner\/59fe0390ab27f918e42bbc703ff68be65e547ae2003529142324243059255674.jpg",
+                "imgLocal": "pokemon-violet-switch_jp.jpg"
+            }
+        }
+    }
+}

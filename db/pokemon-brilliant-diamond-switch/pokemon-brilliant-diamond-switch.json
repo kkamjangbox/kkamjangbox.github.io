@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "pokemon-brilliant-diamond-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T15:38",
+        "lastModifiedDate": "2025-11-14T15:38",
+        "mainImg": "pokemon-brilliant-diamond-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000039952",
+                "productCode": "70010000039952",
+                "productName": "포켓몬스터 브릴리언트 다이아몬드",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/b\/d\/bd_1920x1080.jpg",
+                "imgLocal": "pokemon-brilliant-diamond-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/pokemon-brilliant-diamond-switch\/",
+                "productCode": "pokemon-brilliant-diamond-switch",
+                "productName": "Pokémon Brilliant Diamond",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000039950\/37fdb03bef333221200ace5554c0d43e17ab547d8c3285d444d71808ee52f83a",
+                "imgLocal": "pokemon-brilliant-diamond-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000039949",
+                "productCode": "D70010000039949",
+                "productName": "ポケットモンスター ブリリアントダイヤモンド",
+                "regularPrice": 6578,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw04805f51\/products\/D70010000039949\/heroBanner\/21eb6e8e16726a3b63042aa4f4783229491ca4f9cc7d3f804a16ec00c04382b3.jpg",
+                "imgLocal": "pokemon-brilliant-diamond-switch_jp.jpg"
+            }
+        }
+    }
+}

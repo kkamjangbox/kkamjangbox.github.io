@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "the-legend-of-zelda-tears-of-the-kingdom-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:48",
+        "lastModifiedDate": "2025-11-14T14:48",
+        "mainImg": "the-legend-of-zelda-tears-of-the-kingdom-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000063716",
+                "productCode": "70010000063716",
+                "productName": "젤다의 전설 티어스 오브 더 킹덤",
+                "regularPrice": 74800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/b\/6\/b6bc7bd67a7ea937ea28b6383752d88a7628afb1c1ef196b1f83659c4447fa85.jpg",
+                "imgLocal": "the-legend-of-zelda-tears-of-the-kingdom-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/the-legend-of-zelda-tears-of-the-kingdom-switch\/",
+                "productCode": "the-legend-of-zelda-tears-of-the-kingdom-switch",
+                "productName": "The Legend of Zelda: Tears of the Kingdom",
+                "regularPrice": 69.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000063714\/fb30eab428df3fc993b41c76e20f72e4d76d49734d17d31996b5ab61c414b117",
+                "imgLocal": "the-legend-of-zelda-tears-of-the-kingdom-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000063713",
+                "productCode": "D70010000063713",
+                "productName": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+                "regularPrice": 7900,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw640238fc\/products\/D70010000063713\/heroBanner\/1a637778f3ea270ca6ff053d0204073e555575099e82cb018ddb1877be0a0fde.jpg",
+                "imgLocal": "the-legend-of-zelda-tears-of-the-kingdom-switch_jp.jpg"
+            }
+        }
+    }
+}

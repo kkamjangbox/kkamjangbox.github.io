@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "luigis-mansion-3-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T13:24",
+        "lastModifiedDate": "2025-11-14T13:24",
+        "mainImg": "luigis-mansion-3-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000024608",
+                "productCode": "70010000024608",
+                "productName": "루이지 맨션 3",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/g\/r\/green-plum_eshop-01.jpg",
+                "imgLocal": "luigis-mansion-3-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/luigis-mansion-3-switch\/",
+                "productCode": "luigis-mansion-3-switch",
+                "productName": "Luigi’s Mansion 3",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000001620\/2b166fb3197dacfde1d939acd6a976b9fbe3b1a32c54f9f0d2c8d23efb22412d",
+                "imgLocal": "luigis-mansion-3-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000001621",
+                "productCode": "D70010000001621",
+                "productName": "ルイージマンション３",
+                "regularPrice": 6578,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw8de8c376\/products\/D70010000001621\/heroBanner\/fab95c00a7f0634a4316bf981dc4dff05cd6c8c47c887196bb642daaaffba4c5.jpg",
+                "imgLocal": "luigis-mansion-3-switch_jp.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "snow-bros-special-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T14:46",
+        "lastModifiedDate": "2025-11-14T14:46",
+        "mainImg": "snow-bros-special-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000050351",
+                "productCode": "70010000050351",
+                "productName": "스노우 브라더스 (NICK & TOM SPECIAL)",
+                "regularPrice": 19800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/m\/a\/main_1.jpg",
+                "imgLocal": "snow-bros-special-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/snow-bros-special-switch\/",
+                "productCode": "snow-bros-special-switch",
+                "productName": "SNOW BROS SPECIAL",
+                "regularPrice": 19.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000050354\/06116955d355e006c96be5aea477c3afa36c0dad54832f3d17d28aeda9305253",
+                "imgLocal": "snow-bros-special-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000050353",
+                "productCode": "D70010000050353",
+                "productName": "スノーブラザーズ ニック &amp; トム スペシャル",
+                "regularPrice": 1960,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dwbb83d976\/products\/D70010000050353\/heroBanner\/06116955d355e006c96be5aea477c3afa36c0dad54832f3d17d28aeda9305253.jpg",
+                "imgLocal": "snow-bros-special-switch_jp.jpg"
+            }
+        }
+    }
+}
