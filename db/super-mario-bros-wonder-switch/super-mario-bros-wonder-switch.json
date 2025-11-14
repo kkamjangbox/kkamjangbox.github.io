@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "id": "super-mario-bros-wonder-switch",
+        "platform": "Switch",
+        "version": "1.0",
+        "createdDate": "2025-11-14T00:28",
+        "lastModifiedDate": "2025-11-14T00:28",
+        "mainImg": "super-mario-bros-wonder-switch.jpg",
+        "owned": 1,
+        "stores": {
+            "kr": {
+                "url": "https:\/\/store.nintendo.co.kr\/70010000068690",
+                "productCode": "70010000068690",
+                "productName": "슈퍼 마리오브라더스 원더",
+                "regularPrice": 64800,
+                "imgURL": "https:\/\/store.nintendo.co.kr\/media\/catalog\/product\/cache\/3be328691086628caca32d01ffcc430a\/2\/0\/20230912___1920x1080.jpg",
+                "imgLocal": "super-mario-bros-wonder-switch_kr.jpg"
+            },
+            "us": {
+                "url": "https:\/\/www.nintendo.com\/us\/store\/products\/super-mario-bros-wonder-switch\/",
+                "productCode": "super-mario-bros-wonder-switch",
+                "productName": "Super Mario Bros™ Wonder",
+                "regularPrice": 59.99,
+                "imgURL": "https:\/\/assets.nintendo.com\/image\/upload\/q_auto\/f_auto\/store\/software\/switch\/70010000068688\/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+                "imgLocal": "super-mario-bros-wonder-switch_us.jpg"
+            },
+            "jp": {
+                "url": "https:\/\/store-jp.nintendo.com\/item\/software\/D70010000068687",
+                "productCode": "D70010000068687",
+                "productName": "スーパーマリオブラザーズ ワンダー",
+                "regularPrice": 6500,
+                "imgURL": "https:\/\/store-jp.nintendo.com\/on\/demandware.static\/-\/Sites-all-master-catalog\/ja_JP\/dw470263d9\/products\/D70010000068687\/heroBanner\/c2ca89f80c33548e972dbba1dd0a3e3279c56a33b81fa426499f66cad7a4c2b2.jpg",
+                "imgLocal": "super-mario-bros-wonder-switch_jp.jpg"
+            }
+        }
+    }
+}

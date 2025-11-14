@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>게임 리스트 - KKAMJANGBOX Game DataBase</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 10px;
+                border: 1px solid #000;
+        }
+        th {
+            background-color: #f0f0f0;
+            font-weight: bold;
+            text-align: center;
+        }
+        th:nth-child(1), td:nth-child(1) {
+            width: 20%;
+            text-align: center;
+        }
+        th:nth-child(2), td:nth-child(2) {
+            width: 55%;
+            text-align: center;
+        }
+        th:nth-child(3), td:nth-child(3) {
+            width: 25%;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 onclick="window.location.href='index.html'" style="cursor: pointer;">KKAMJANGBOX<br>Game DataBase</h1>
+    <hr>
+    
+    <h2>
+        <a href="game_list.html">LIST</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="game_add.html">Add Game</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="game_list_maker.php">List Maker</a>
+    </h2>
+    
+    <hr>
+    
+    <table cellspacing="0">
+        <thead>
+            <tr>
+                <th>기종</th>
+                <th>이름</th>
+                <th>소유 여부</th>
+            </tr>
+        </thead>
+        <tbody id="gameList">
+            <tr><td colspan="3">로딩 중...</td></tr>
+        </tbody>
+    </table>
+    
+    <hr>
+    <h4>
+        <a href="index.html">돌아가기</a>
+    </h4>
+
+    <script>
+        // 캐시 방지: 타임스탐프 추가
+        fetch(`game_list.json?t=${Date.now()}`)
+            .then(response => {
+                console.log('응답 상태:', response.status);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('JSON 데이터:', data);
+                const gameList = document.getElementById('gameList');
+                gameList.innerHTML = '';
+                
+                if (!data.games || data.games.length === 0) {
+                    gameList.innerHTML = '<tr><td colspan="3">게임이 없습니다</td></tr>';
+                    return;
+                }
+                
+                data.games.forEach(game => {
+                    const ownedStatus = game.owned === 1 ? '소유' : '미소유';
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${game.platform}</td>
+                        <td><a href="db/${game.id}.html">${game.kr_name}</a></td>
+                        <td>${ownedStatus}</td>
+                    `;
+                    gameList.appendChild(row);
+                });
+            })
+            .catch(error => {
+                console.error('에러:', error);
+                document.getElementById('gameList').innerHTML = `<tr><td colspan="3">에러: ${error.message}</td></tr>`;
+            });
+    </script>
+</body>
+</html>

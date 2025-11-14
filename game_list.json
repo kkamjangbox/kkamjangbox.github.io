@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "version": "1.0",
+        "createdDate": "2025-11-14T00:30:08",
+        "lastModifiedDate": "2025-11-14T00:30:08",
+        "total_games": 2
+    },
+    "games": [
+        {
+            "id": "kirby-and-the-forgotten-land-switch",
+            "kr_name": "별의 커비 디스커버리",
+            "platform": "Switch",
+            "owned": 1
+        },
+        {
+            "id": "super-mario-bros-wonder-switch",
+            "kr_name": "슈퍼 마리오브라더스 원더",
+            "platform": "Switch",
+            "owned": 1
+        }
+    ]
+}

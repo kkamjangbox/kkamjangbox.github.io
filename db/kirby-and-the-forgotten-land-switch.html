@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>게임 정보 - KKAMJANGBOX Game DataBase</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        h1 {
+            cursor: pointer;
+        }
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            text-align: left;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1 onclick="window.location.href='../index.html'" style="cursor: pointer;">KKAMJANGBOX<br>Game DataBase</h1>
+    <hr>
+    
+    <h2>
+        <a href="../game_list.html">LIST</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="../game_add.html">Add Game</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="../game_list_maker.php">List Maker</a>
+    </h2>
+    
+    <hr>
+    
+    <h3 id="title">로드 중...</h3>
+    
+    <div id="content" class="content">
+        <p>데이터를 읽고 있습니다...</p>
+    </div>
+    
+    <hr>
+    <h4>
+        <a href="javascript:history.back()">돌아가기</a>
+    </h4>
+    
+    <script>
+        // 현재 파일명 가져오기
+        const currentFile = window.location.pathname.split('/').pop().replace('.html', '');
+        
+        // JSON 파일 경로 (같은 폴더 내의 하위 폴더)
+        const jsonPath = currentFile + '/' + currentFile + '.json?t=' + Date.now();
+        
+        console.log('JSON 경로:', jsonPath);
+        
+        // JSON 로드
+        fetch(jsonPath)
+            .then(response => {
+                console.log('응답 상태:', response.status);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('JSON 데이터:', data);
+                const meta = data.metadata;
+                const stores = meta.stores;
+                
+                // 소유 여부 변환
+                const ownedStatus = meta.owned === 1 ? '소유' : '미소유';
+                
+                document.getElementById('title').textContent = "";
+                
+                const content = `
+                    <h2>${stores.kr.productName} | ${stores.us.productName} | ${stores.jp.productName}</h2>
+                    <h3>플랫폼 : ${meta.platform}</h3>
+                    <h3>소유여부 : ${ownedStatus}</h3>
+                    <img src="${currentFile}/${meta.mainImg}" style="max-width: 500px;">
+                    <h3>가격 : &#8361;${stores.kr.regularPrice.toLocaleString()} / $${stores.us.regularPrice.toFixed(2)} / ¥${stores.jp.regularPrice.toLocaleString()} </h3>
+                    
+                    
+                    <h3>스토어 링크
+                        <a href="${stores.kr.url}" target="_blank">한국 스토어</a>
+                        |
+                        <a href="${stores.us.url}" target="_blank">미국 스토어</a>
+                        |
+                        <a href="${stores.jp.url}" target="_blank">일본 스토어</a>
+                    </h3>
+                `;
+                
+                document.getElementById('content').innerHTML = content;
+            })
+            .catch(error => {
+                console.error('에러:', error);
+                document.getElementById('content').innerHTML = '<p style="color: red;">오류: ' + error.message + '</p>';
+            });
+    </script>
+</body>
+</html>
