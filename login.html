@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>로그인 - KKAMJANGBOX Game DataBase</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        h1 {
+            cursor: pointer;
+        }
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            text-align: left;
+        }
+        .login-form {
+            margin: 40px auto;
+            max-width: 400px;
+            padding: 30px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            background: #fafafa;
+            text-align: left;
+        }
+        .login-form label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        .login-form input[type="text"],
+        .login-form input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 18px;
+            border: 1px solid #999;
+            border-radius: 6px;
+            font-size: 16px;
+        }
+        .login-form input[type="submit"] {
+            width: 100%;
+            background: #4461d7;
+            color: #fff;
+            border: none;
+            padding: 12px;
+            font-size: 17px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .login-form input[type="submit"]:hover {
+            background: #254aac;
+        }
+        .login-message {
+            color: red;
+            margin-bottom: 10px;
+            min-height: 22px;
+        }
+    </style>
+</head>
+<body>
+    <h1 onclick="window.location.href='index.html'">KKAMJANGBOX<br>Game DataBase</h1>
+    <hr>
+    
+    <h2>
+        <a href="game_list.html">LIST</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="game_add.html">Add Game</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="game_list_maker.php">List Maker</a>
+    </h2>
+    
+    <hr>
+    
+    <div class="content">
+        <h2>로그인</h2>
+        <form class="login-form" id="loginForm" autocomplete="off">
+            <div class="login-message" id="loginMessage"></div>
+            <label for="username">아이디</label>
+            <input type="text" id="username" name="username" required>
+            <label for="password">비밀번호</label>
+            <input type="password" id="password" name="password" required>
+            <input type="submit" value="로그인">
+        </form>
+    </div>
+    
+    <hr>
+    <h4>
+        <a href="javascript:history.back()">돌아가기</a>
+    </h4>
+    
+    <script>
+        document.getElementById('loginForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const user = document.getElementById("username").value.trim();
+            const pass = document.getElementById("password").value.trim();
+            const message = document.getElementById("loginMessage");
+                message.style.color = 'red';
+                message.textContent = "아이디 또는 비밀번호가 올바르지 않습니다.";
+            
+        });
+    </script>
+</body>
+</html>
