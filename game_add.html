@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>게임 추가 - KKAMJANGBOX Game DataBase</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        input[type="url"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            box-sizing: border-box;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        .form-section {
+            max-width: 800px;
+            margin: 20px auto;
+            text-align: left;
+            border: 1px solid #000;
+            padding: 15px;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        .error-message {
+            color: red;
+            display: none;
+            margin-bottom: 15px;
+        }
+        .button-container {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1 onclick="window.location.href='index.html'" style="cursor: pointer;">KKAMJANGBOX<br>Game DataBase</h1>
+    <hr>
+    
+    <h2>
+        <a href="game_list.html">LIST</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="game_add.html">Add Game</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="game_list_maker.php">List Maker</a>
+    </h2>
+    
+    <hr>
+    
+    <div id="errorMessage" class="error-message"></div>
+    <br>
+    <div class="info-message">3개의 스토어 중 최소 1개 이상의 URL을 입력해주세요.</div>
+    
+    <form id="gameForm" method="POST" action="game_add.php" class="form-section">
+        <label>한국 스토어 URL:</label>
+        <input type="url" id="krUrl" name="krUrl" placeholder="https://store.nintendo.co.kr/...">
+        
+        <label>미국 스토어 URL:</label>
+        <input type="url" id="usUrl" name="usUrl" placeholder="https://www.nintendo.com/us/store/products/...">
+        
+        <label>일본 스토어 URL:</label>
+        <input type="url" id="jpUrl" name="jpUrl" placeholder="https://store-jp.nintendo.com/item/software/...">
+        
+        <br><br>
+        <div class="button-container">
+            <button type="submit">데이터 파싱 & 저장</button>
+            <button type="reset">초기화</button>
+        </div>
+    </form>
+    
+    <hr>
+    <h4>
+        <a href="index.html">돌아가기</a>
+    </h4>
+
+    <script>
+        const form = document.getElementById('gameForm');
+        const krUrl = document.getElementById('krUrl');
+        const usUrl = document.getElementById('usUrl');
+        const jpUrl = document.getElementById('jpUrl');
+        const errorMessage = document.getElementById('errorMessage');
+        
+        const storePatterns = {
+            kr: /^https:\/\/store\.nintendo\.co\.kr\//,
+            us: /^https:\/\/www\.nintendo\.com\/us\/store\//,
+            jp: /^https:\/\/store-jp\.nintendo\.com\//
+        };
+        
+        form.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const krUrlValue = krUrl.value.trim();
+            const usUrlValue = usUrl.value.trim();
+            const jpUrlValue = jpUrl.value.trim();
+            
+            errorMessage.style.display = 'none';
+            
+            // 최소 1개 이상의 URL 입력 확인
+            if (!krUrlValue && !usUrlValue && !jpUrlValue) {
+                errorMessage.textContent = '최소 1개 이상의 스토어 URL을 입력해주세요';
+                errorMessage.style.display = 'block';
+                return;
+            }
+            
+            // URL 패턴 검증
+            if (krUrlValue && !storePatterns.kr.test(krUrlValue)) {
+                errorMessage.textContent = '한국 스토어 URL이 올바르지 않습니다';
+                errorMessage.style.display = 'block';
+                return;
+            }
+            
+            if (usUrlValue && !storePatterns.us.test(usUrlValue)) {
+                errorMessage.textContent = '미국 스토어 URL이 올바르지 않습니다';
+                errorMessage.style.display = 'block';
+                return;
+            }
+            
+            if (jpUrlValue && !storePatterns.jp.test(jpUrlValue)) {
+                errorMessage.textContent = '일본 스토어 URL이 올바르지 않습니다';
+                errorMessage.style.display = 'block';
+                return;
+            }
+            
+            // 검증 통과 - POST로 제출
+            form.submit();
+        });
+    </script>
+</body>
+</html>
